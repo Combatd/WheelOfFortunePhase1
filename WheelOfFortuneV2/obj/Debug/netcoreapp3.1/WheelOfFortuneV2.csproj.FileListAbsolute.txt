@@ -1,0 +1,13 @@
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\bin\Debug\netcoreapp3.1\WheelOfFortuneV2.exe
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\bin\Debug\netcoreapp3.1\WheelOfFortuneV2.deps.json
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\bin\Debug\netcoreapp3.1\WheelOfFortuneV2.runtimeconfig.json
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\bin\Debug\netcoreapp3.1\WheelOfFortuneV2.runtimeconfig.dev.json
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\bin\Debug\netcoreapp3.1\WheelOfFortuneV2.dll
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\bin\Debug\netcoreapp3.1\WheelOfFortuneV2.pdb
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\obj\Debug\netcoreapp3.1\WheelOfFortuneV2.csprojAssemblyReference.cache
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\obj\Debug\netcoreapp3.1\WheelOfFortuneV2.AssemblyInfoInputs.cache
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\obj\Debug\netcoreapp3.1\WheelOfFortuneV2.AssemblyInfo.cs
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\obj\Debug\netcoreapp3.1\WheelOfFortuneV2.csproj.CoreCompileInputs.cache
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\obj\Debug\netcoreapp3.1\WheelOfFortuneV2.dll
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\obj\Debug\netcoreapp3.1\WheelOfFortuneV2.pdb
+C:\Users\v-mcalvelo\Source\Repos\WheelOfFortuneV2\WheelOfFortuneV2\obj\Debug\netcoreapp3.1\WheelOfFortuneV2.genruntimeconfig.cache
